@@ -4,7 +4,7 @@ HuiPan's Work Day Scheduler
 Development Tool: MS VS Code Version:1.81.0;
 Third-party Plug-ins: jquery-3.4.1.min.js; dayjs-1.11.3; bootstrap-5.1.3; GoogleFonts-Open Sans
 Deployment Platform: GitHub;
-Special Feature: Use HTML custom data-* attributes to allocate each textarea with an unique time ID
+Special Feature: Use HTML custom data-* attributes to allocate each textarea with a unique time ID
 ```
 ## User Story
 ```
