@@ -29,7 +29,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 ## Usage
-GitHub folder: https://github.com/HuiPan_WorkDayScheduler/Screenshots-User%20Guide
+GitHub folder: https://github.com/HuiPan-Peter/HuiPan_WorkDayScheduler/tree/main/Screenshots-User%20Guide
 ```
 ![alt text](Screenshots-User Guide/User Guide-01_Open the page and check the current date and time.jpg)
 ![alt text](Screenshots-User Guide/User Guide-02_Enter a schedule and save to the local storage.jpg)
